@@ -528,6 +528,11 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  transition: transform 0.3s ease-in-out; /* Smooth transition */
+}
+
+.img-fluid:hover {
+  transform: scale(1.05); /* Zoom effect */
 }
 
 .img-thumbnail {
