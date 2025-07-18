@@ -7,7 +7,7 @@ A beautiful, modern, and fully responsive wedding website tailored to showcase a
 ## Table of Contents
 
 - [About](#about)  
-- [Features](#features)  
+- [Features](#features)   
 - [Demo](#demo)  
 - [Technologies](#technologies)  
 - [Installation](#installation)  
