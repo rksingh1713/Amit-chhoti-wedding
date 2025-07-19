@@ -2,7 +2,7 @@
 
 A beautiful, modern, and fully responsive wedding website tailored to showcase all aspects of Amit’s Chhoti Wedding. This project provides a seamless experience for guests and hosts by offering comprehensive event details, RSVP functionality, photo galleries, and venue information — all designed with elegant UI and smooth user interactions.
 
----
+-----
 
 ## Table of Contents
 
