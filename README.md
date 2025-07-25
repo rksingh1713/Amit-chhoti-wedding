@@ -38,7 +38,7 @@ This repository contains the source code for the **Amit Chhoti Wedding** website
 - Smooth scrolling navigation and user-friendly UI  
 - SEO optimized with meaningful meta tags and alt attributes  
 - Clean, semantic HTML5 and modern CSS (Flexbox/Grid) usage  
-- Easily customizable content and styles  
+- Easily customizable content and styles
 
 ---
 
