@@ -49,7 +49,7 @@ This repository contains the source code for the **Amit Chhoti Wedding** website
 ![Homepage Screenshot](assets/screenshot-homepage.png)  
 
 ---
-
+ 
 ## Technologies
 
 - **HTML5** - Semantic markup and structured content  
